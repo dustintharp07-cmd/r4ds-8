@@ -1,0 +1,14 @@
+---
+title: "Prediction Markets"
+author: "Dustin Tharp"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| message: false
+
+library(tidyverse)
+library(arrow)
+```
